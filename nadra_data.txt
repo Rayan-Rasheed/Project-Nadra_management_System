@@ -1,0 +1,16 @@
+Ahmad,Faraz,male,Saeed Akhtar,2000,4,19,3230402047899,Punjab,Lahore,Garden town streat#4,Garden town streat#4,Cinoform,2
+Rayan,Rasheed,male,Abdul Rasheed,2004,10,25,3130258066437,Punjab,Lahore,Mugalpura,Bahawalpur,Pfizer,1
+Mukram,Ali,male,Ali Mukhtar,2003,12,31,3130260006148,punjab,Lahore,Lahore Uet,Faisalabad,pfizer,1
+Abdullah,irshad,male,Akram rizwan,2000,12,1,3130240004183,punjab,lahore,Lahore model town,Awan town,cinoform,1
+ali,bhai,male,kuldeep,2004,12,1,3130200002300,punjab,Lahore,lahore,lahoe,pfizer,1
+zunaira,mukhtar,female,mukhtar hassan,1996,12,31,3130258077436,punjab,Lahore,lake city,mugalpura,pfizer,1
+hammad,asghar,male,Asghar sultan,2001,12,23,3130230006184,punjab,Lahore,Lahore jh,Lahore hgd,pfizer,2
+Faraz,Ahmad,male,Ahmad Ashfaq,1996,12,23,3130270006178,punjab,Lahore,Opposite Anarkali bazar,Mugalpura,pfizer,2
+Zaid,Majid,male,Majid Iqbal,1986,1,21,3130550005185,Punjab,Lahore,Bhagwanpura street#3,Okara paki mandi,cinofom,1
+Waqas,Afzal,male,Afzal Khan,1965,12,21,3130530003187,Punjab,Lahore,DHA phase 8,DHA phase 8,cinoform,1
+Faraz,Ahmad,male,Ahmad Ashfaq,1955,12,23,3130270006178,punjab,Lahore,Opposite Anarkali bazar,Mugalpura,pfizer,2
+Zaid,Majid,male,Majid Iqbal,1955,1,21,3130550005185,Punjab,Lahore,Bhagwanpura street#3,Okara paki mandi,cinofom,1
+Waqas,Afzal,male,Afzal Khan,1918,12,21,3130530003187,Punjab,Lahore,DHA phase 8,DHA phase 8,cinoform,1
+Zaid,Majid,male,majid,2004,12,12,3130200222087,punjab,fsd,lahore,faislabad,cinofom,1
+Hassan,Ali,male,Ali mukhtar,2001,12,23,3130260006174,Punjab,fsd,Lahore ,mugalpura lahore,cinoform,1
+Ali,Ahmad,male,hammad,2001,1,11,3130260006184,punjab,Lahore,jds jdsj,jdfj jdfj,pfizer,2

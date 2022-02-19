@@ -1,0 +1,2 @@
+Ali,3130260006184,applicant
+ahmad,ahmad@123,staff
